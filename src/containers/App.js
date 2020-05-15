@@ -40,8 +40,6 @@ componentDidMount(){
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>
             <Cardlist robots={filteredRobots}/>
-            <p>Made with <span>❤️</span> by fernatomic</p>
-            <p>&copy; 2020 eStrategyDesk</p>
           </Scroll>
         </div>
       )
