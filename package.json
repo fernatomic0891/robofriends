@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "homepage": "https://fernatomic0891.github.io/robofriends",
+  "homepage": "https://github.com/fernatomic0891/robofriends#readme",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +46,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fernatomic0891/robofriends/issues"
-  },
-  "homepage": "https://github.com/fernatomic0891/robofriends#readme"
+  }
 }
